@@ -64,6 +64,7 @@ if(isset($_GET['messageID'])){
         </tbody>
     </table>
    <?php } ?>
+    <a href="../index.php" class="btn btn-success">Back to home</a>
 </div>
 
 </body>
